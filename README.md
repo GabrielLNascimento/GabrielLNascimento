@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Gabriel Liz 😁
 
  <div>
-   <a href="https://github.com/GabrielLNascimento">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLNascimento&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/gabriellnascimento">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellnascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellnascimento&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
